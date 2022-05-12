@@ -3,3 +3,4 @@ deploy line1
 deploy line2
 deploy line3
 deploy line4
+added line5 being in master mode
